@@ -10,4 +10,4 @@ Several useful scripts for Ubuntu.
 Raúl Pérula-Martínez<br>
 Computer Engineer<br>
 Spain<br>
-Website: http://educatech.sytes.net/raul
+Website: http://raulperula.github.io/
